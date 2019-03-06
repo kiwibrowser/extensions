@@ -1,1 +1,4 @@
-{}
+{
+  name: 'Test',
+  description: 'A test extension for Kiwi Browser'
+}
